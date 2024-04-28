@@ -4,6 +4,9 @@
   },
   "scripts": {
     "dev": "node server.js"
-  }
+  },
+  "scripts": {
+    "start": "node your-script.js"
+}
 }
 
